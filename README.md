@@ -31,7 +31,7 @@ Systems Engineer, Web Developer 💻 with two years of experience where I have w
 
 <p align="center">
 <img  alt="Angular" width="70px" src="https://anderson-romero-web.web.app/assets/img/skills/angular.png" />
- <img alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+ <img alt="Vue.js" width="60px" src="https://github.com/EdixonAlberto/EdixonAlberto/raw/master/images/skills/vue.png" />
  <img alt="Ionic" width="60px" src="https://anderson-romero-web.web.app/assets/img/skills/ionic.png" />
 <img  alt="TypeScript" width="60px" src="https://github.com/EdixonAlberto/EdixonAlberto/blob/master/images/skills/typescript.png" />
 <img  alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
