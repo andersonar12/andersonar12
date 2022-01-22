@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello my name is Anderson Romero 👋
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Systems Engineer, Web Developer 💻 with two years of experience where I have worked with the following technologies : Angular / IONIC, Vue.js, Typecript, Node.js, Vanilla Javascript, Bootstrap, Jquery, PHP, WordPress. Acquiring knowledge in Flutter. My favorite stack is the Front End 🖥️ and in which I carry more experience; always eager to learn from the best technologies, constantly developing good practices in programming syntax, acquiring new skills and knowledge in the process.
+
+
 
 <!--
 **andersonar12/andersonar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
