@@ -5,7 +5,27 @@
 </p>
 
 
-Systems Engineer, Web Developer 💻 with two years of experience where I have worked with the following technologies : Angular / IONIC, Vue.js, Typecript, Node.js, Vanilla Javascript, Bootstrap, Jquery, PHP, WordPress. Acquiring knowledge in Flutter. My favorite stack is the Front End 🖥️ and in which I carry more experience; always eager to learn from the best technologies, constantly developing good practices in programming syntax, acquiring new skills and knowledge in the process.
+I have a deep passion for UI/UX design, and I am committed to developing innovative experiences 🦾 that delight customers and exceed their expectations. 🤝🏻
+
+As a Systems Engineer and Web Developer ⚙️💻, I have several years of experience working with a wide range of technologies, including:
+
+✅ Vue.js
+✅ Angular
+✅ Next.js
+✅ React
+✅ IONIC
+✅ TypeScript
+✅ Node.js
+✅ Vanilla Javascript
+✅ Sass
+✅ Tailwind
+✅ Bootstrap
+✅ Vuetify
+✅ Docker
+✅ jQuery
+✅ PHP
+
+My specialty and area of expertise is Front End development, always with the enthusiasm to learn and master the best technologies available. I am constantly dedicated to developing best practices in programming syntax, acquiring new skills and knowledge in the process. Currently, I have the ability to work and adapt to any of the three most used JavaScript frameworks: Angular / Vue.js and Next.js
 
 
 ### Technologies:
