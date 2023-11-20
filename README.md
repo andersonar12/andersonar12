@@ -32,11 +32,13 @@ My specialty and area of expertise is Front End development, always with the ent
 
 <p align="center">
   <img alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="Angular" width="70px" src="https://anderson-romero-web.web.app/assets/img/skills/angular-new-logo.gif" />
+<img alt="Angular" width="70px" src="https://anderson-romero-web.web.app/assets/img/skills/angular-logo.png" />
+ <img alt="Vue.js" width="60px" src="https://anderson-romero-web.web.app/assets/img/skills/vue.png" />
+<img alt="React.js" width="60px" src="https://anderson-romero-web.web.app/assets/img/skills/react-logo.png" />
+ <img alt="Next.js" width="60px" src="https://anderson-romero-web.web.app/assets/img/skills/next-js-logo.png" />
+ <img alt="Ionic" width="60px" src="https://anderson-romero-web.web.app/assets/img/skills/ionic.png" />
 <img alt="TypeScript" width="60px" src="https://anderson-romero-web.web.app/assets/img/skills/typescript.png" />
 <img alt="JavaScript" width="60px" src="https://anderson-romero-web.web.app/assets/img/skills/javascript.png" />
-<img alt="Vue.js" width="60px" src="https://anderson-romero-web.web.app/assets/img/skills/vue.png" />
-<img alt="Ionic" width="60px" src="https://anderson-romero-web.web.app/assets/img/skills/ionic.png" />
 <img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt="Sass" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
