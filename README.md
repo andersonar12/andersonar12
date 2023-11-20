@@ -32,7 +32,7 @@ My specialty and area of expertise is Front End development, always with the ent
 
 <p align="center">
   <img alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="Angular" width="70px" src="https://anderson-romero-web.web.app/assets/img/skills/angular-logo.png" />
+<img alt="Angular" width="70px" src="https://anderson-romero-web.web.app/assets/img/skills/angular.png" />
  <img alt="Vue.js" width="60px" src="https://anderson-romero-web.web.app/assets/img/skills/vue.png" />
 <img alt="React.js" width="60px" src="https://anderson-romero-web.web.app/assets/img/skills/react-logo.png" />
  <img alt="Next.js" width="60px" src="https://anderson-romero-web.web.app/assets/img/skills/next-js-logo.png" />
@@ -42,6 +42,7 @@ My specialty and area of expertise is Front End development, always with the ent
 <img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt="Sass" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img alt="Tailwind" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png" />
 <img alt="Bootstrap" width="60px" src="https://anderson-romero-web.web.app/assets/img/skills/bootstrap.png" />
 <img alt="Node.js" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img alt="PHP" width="120px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
