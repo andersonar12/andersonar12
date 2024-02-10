@@ -25,7 +25,7 @@ As a Systems Engineer and Web Developer ⚙️💻, I have several years of expe
 ✅ jQuery
 ✅ PHP
 
-My specialty and area of expertise is Front End development, always with the enthusiasm to learn and master the best technologies available. I am constantly dedicated to developing best practices in programming syntax, acquiring new skills and knowledge in the process. Currently, I have the ability to work and adapt to any of the three most used JavaScript frameworks: Angular / Vue.js and Next.js
+My specialty and area of expertise is Front End development, always with the enthusiasm to learn and master the best technologies available. I am constantly dedicated to developing best practices in programming syntax, acquiring new skills and knowledge in the process. Currently, I have the ability to work and adapt to any of the three most used JavaScript frameworks: Angular / Vue.js / React.js
 
 
 ### Technologies:
